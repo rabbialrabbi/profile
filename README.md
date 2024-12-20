@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Faswinbarath%2Fhello-world-19hi&psig=AOvVaw3MPLYfg0avL8_OxsKb1JOD&ust=1734781164273000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiH_MyhtooDFQAAAAAdAAAAABAT"  />
+  <img height="150" src="https://media2.dev.to/dynamic/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F8y9m1r90a9moi4ufe6lm.png"  />
 </div>
 
 ###
